@@ -9,12 +9,13 @@
 
 ### Some of the tools I’ve worked with so far:
 
-![SQL](https://img.shields.io/badge/SQL-f8c8d9?style=flat)
-![Python](https://img.shields.io/badge/Python-f8c8d9?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f8c8d9?style=flat)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-f8c8d9?style=flat)
-![Tableau](https://img.shields.io/badge/Tableau-f8c8d9?style=flat)
-![ETL](https://img.shields.io/badge/ETL-f8c8d9?style=flat)
-![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-f8c8d9?style=flat)
-![Statistics](https://img.shields.io/badge/Statistics-f8c8d9?style=flat)
+![SQL](https://img.shields.io/badge/SQL-f8c8d9?style=for-the-badge&logo=postgresql&logoColor=black)
+![Python](https://img.shields.io/badge/Python-f8c8d9?style=for-the-badge&logo=python&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f8c8d9?style=for-the-badge&logo=postgresql&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-f8c8d9?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-f8c8d9?style=for-the-badge&logo=tableau&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL-f8c8d9?style=for-the-badge&logo=apacheairflow&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-f8c8d9?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![Statistics](https://img.shields.io/badge/Statistics-f8c8d9?style=for-the-badge&logo=databricks&logoColor=black)
+
 
