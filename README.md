@@ -1,7 +1,8 @@
 ### Namaste! :pray:
 
 
-- I design, develop, and maintain data-driven systems - dashboards, reports, and data models - that turn raw data into decision-ready intelligence. </br>
+- I work in business intelligence, where I use SQL, Python, and BI tools to structure data, build reliable reports, and support informed business decisions. </br>
+- I’m driven by curiosity and clarity. I enjoy asking the right questions, understanding how businesses operate, and turning data into insights that help teams make better, more confident decisions. </br>
 - I’m currently learning by building AI agents that solve everyday, human-scale problems. </br>
 - Master's - Business Analytics @The George Washington University </br>
 - Bachelor's - Computer Science @Visvesvaraya Technological University </br>
