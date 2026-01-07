@@ -10,7 +10,7 @@
 ### Some of the tools I’ve worked with so far:
 
 #### Business Intelligence & Reporting 
-![SQL](https://img.shields.io/badge/SQL-f8c8d9?style=for-the-badge&logo=postgresql&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-f8c8d9?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-f8c8d9?style=for-the-badge&logo=tableau&logoColor=black)
 ![Statistics](https://img.shields.io/badge/Statistics-f8c8d9?style=for-the-badge&logo=databricks&logoColor=black)
