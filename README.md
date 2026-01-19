@@ -1,7 +1,7 @@
 ### Namaste! :pray:
 
 
-- I spend most of my time working across data engineering, analytics, and thinking through problems and their solutions. </br>
+- I work with data end to end, using it to answer the why's and how's behind problems and reason out solutions grounded in facts. </br>
 - I’m currently learning by building AI agents that solve everyday, human-scale problems. </br>
 - Master's - Business Analytics @The George Washington University </br>
 - Bachelor's - Computer Science @Visvesvaraya Technological University </br>
