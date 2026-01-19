@@ -1,8 +1,7 @@
 ### Namaste! :pray:
 
 
-- I work in business intelligence, where I use SQL, Python, and BI tools to structure data, build reliable reports, and support informed business decisions. </br>
-- I’m driven by curiosity and clarity. I enjoy asking the right questions, understanding how businesses operate, and turning data into insights that help teams make better, more confident decisions. </br>
+- I spend most of my time working across data engineering, analytics, and thinking through problems and their solutions. </br>
 - I’m currently learning by building AI agents that solve everyday, human-scale problems. </br>
 - Master's - Business Analytics @The George Washington University </br>
 - Bachelor's - Computer Science @Visvesvaraya Technological University </br>
